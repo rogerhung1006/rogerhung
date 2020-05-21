@@ -11,7 +11,7 @@ export default {
     },
     {
       name: 'description',
-      type: 'bodyPortableText',
+      type: 'text',
       title: 'Description',
       description: 'Describe your blog for search engines and social media.'
     },
