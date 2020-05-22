@@ -56,6 +56,12 @@
     @nest & img {
       max-width: 100%;
     }
+
+    /* @nest & img[alt~="NLP"] {
+      max-width: 60%;
+      height: auto !important;
+      transform: translate(0, 50%) !important;
+   } */
   }
 }
 

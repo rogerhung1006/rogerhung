@@ -19,3 +19,11 @@ body > div,
 body > div > div {
   height: 100%;
 }
+
+.gatsby-image-wrapper div {
+  /* border: 1px solid red; */
+}
+
+h2, h3 {
+  margin-top: 3rem;
+}
